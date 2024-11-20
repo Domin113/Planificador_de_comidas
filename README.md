@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Planificador_de_comidas
 Aplicación web donde los usuarios puedan buscar, guardar y planificar recetas. La aplicación permite organizar sus comidas semanales, generar listas de compras y ofrecer recomendaciones personalizadas.
 >>>>>>> c999620fa1251ae04cbee1b3e9002981b624c622
+=======
+# Planificador_de_comidas
+Aplicación web donde los usuarios puedan buscar, guardar y planificar recetas. La aplicación permite organizar sus comidas semanales, generar listas de compras y ofrecer recomendaciones personalizadas.
+>>>>>>> 103141f73706eb3b90eff3da071e8dba55b1b8e7
