@@ -1,0 +1,1 @@
+// Componente para la barra de búsqueda.

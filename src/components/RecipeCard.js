@@ -1,0 +1,1 @@
+// Tarjeta para mostrar una receta individual.
